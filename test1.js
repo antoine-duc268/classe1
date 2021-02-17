@@ -15,6 +15,8 @@ class EmployeUniversite {
     }
 }
 
+// test
+
 class EmployeUniversiteProfesseur extends EmployeUniversite {
     constructor(nom, prenom, numeroEmploye, anneesExperience, salaire, coursEnseigne) {
         super(nom, prenom, numeroEmploye, anneesExperience);
